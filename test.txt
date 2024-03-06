@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 hey hey hey hey eheye heye eheye eheye eheye eheye
 sone bnoiu yuiqw yarr je3 cj 
 
+=======
+qwerty
+asdfghjk
+mklop
+>>>>>>> feature2
